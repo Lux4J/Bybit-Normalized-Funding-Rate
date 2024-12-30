@@ -43,9 +43,9 @@ This Python script fetches **Bitcoin price** and **funding rate data** from Bybi
 ```
 git clone https://github.com/Lux4J/BTC-Bybit-Normalized-Funding-Rate.git
 
-cd BTC-Bybit-Normalized-Funding-Rate
+cd Bybit-Normalized-Funding-Rate
 
-python BTC_Normalized_Funding_Rate.py
+python Bybit_funding_rate.py.py
 ```
 ## **Output**
 
